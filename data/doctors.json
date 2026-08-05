@@ -1,62 +1,706 @@
-[{"id":"doc-001","name":"Dr. K.K.R. Wariyar","dept":"Founder & Chief Paediatrician","tag":"Pediatrics","img":"https://lakshmihospital.com/ckfinder/userfiles/files/wariar.jpeg","qual":"MBBS (Manipal), DCH (London & Ireland)"},
-{"id":"doc-002","name":"Dr. Sreelatha Warrier","dept":"Obstetrics & Gynaecology","tag":"Gynaecology","img":"https://lakshmihospital.com/uploads/leaders/21083283151647291943.jpg","qual":""},
-{"id":"doc-003","name":"Dr. Syamala V.P.","dept":"Obstetrics & Gynaecology","tag":"Gynaecology","img":"https://lakshmihospital.com/uploads/leaders/2002600119819024211.png","qual":""},
-{"id":"doc-004","name":"Dr. Nejumunneesa","dept":"Obstetrics & Gynaecology","tag":"Gynaecology","img":"https://lakshmihospital.com/uploads/leaders/13577897643664875.png","qual":""},
-{"id":"doc-005","name":"Dr. Reshma Raj","dept":"Obstetrics & Gynaecology","tag":"Gynaecology","img":"https://lakshmihospital.com/uploads/leaders/200221776289694839.png","qual":""},
-{"id":"doc-006","name":"Dr. Anju Viswanath","dept":"Obstetrics & Gynaecology","tag":"Gynaecology","img":"https://lakshmihospital.com/uploads/leaders/513867882663851787.png","qual":""},
-{"id":"doc-007","name":"Dr. Gayathri M.S.","dept":"Obstetrics & Gynaecology","tag":"Gynaecology","img":"https://lakshmihospital.com/uploads/leaders/10117298531852090939.png","qual":""},
-{"id":"doc-008","name":"Dr. Sarada A.J.","dept":"Obstetrics & Gynaecology","tag":"Gynaecology","img":"https://lakshmihospital.com/uploads/leaders/9476810611998858701.jpg","qual":""},
-{"id":"doc-009","name":"Dr. Suja S. Dharan","dept":"Obstetrics & Gynaecology","tag":"Gynaecology","img":"https://lakshmihospital.com/uploads/leaders/12128724722014555493.jpg","qual":""},
-{"id":"doc-010","name":"Dr. Malini Krishnan","dept":"Obstetrics & Gynaecology","tag":"Gynaecology","img":"https://lakshmihospital.com/uploads/leaders/8556212611097764506.jpg","qual":""},
-{"id":"doc-011","name":"Dr. Anupama Karthik","dept":"Fetal Medicine","tag":"Gynaecology","img":"https://lakshmihospital.com/uploads/leaders/9593602701663093694.jpg","qual":""},
-{"id":"doc-012","name":"Dr. Manoj V.C.","dept":"Neonatology","tag":"Neonatology","img":"https://lakshmihospital.com/uploads/leaders/292128759838618704.png","qual":""},
-{"id":"doc-013","name":"Dr. Sherin Naseer Ahamed","dept":"Neonatology","tag":"Neonatology","img":"https://lakshmihospital.com/uploads/leaders/9747229661244662522.png","qual":""},
-{"id":"doc-014","name":"Dr. Tenina Rose","dept":"Neonatology","tag":"Neonatology","img":"https://lakshmihospital.com/uploads/leaders/10700302102053173974.jpg","qual":""},
-{"id":"doc-015","name":"Dr. Sujith Kumar T.J.","dept":"Neonatology","tag":"Neonatology","img":"https://lakshmihospital.com/uploads/leaders/66846581327727067.jpg","qual":""},
-{"id":"doc-016","name":"Dr. Rema Gopinath","dept":"Paediatrics","tag":"Pediatrics","img":"https://lakshmihospital.com/uploads/leaders/19531447051367535863.png","qual":""},
-{"id":"doc-017","name":"Dr. Pramod Wariyar","dept":"Paediatrics","tag":"Pediatrics","img":"https://lakshmihospital.com/uploads/leaders/4517917811784856427.jpg","qual":""},
-{"id":"doc-018","name":"Dr. Thulasi C.","dept":"Paediatrics","tag":"Pediatrics","img":"https://lakshmihospital.com/uploads/leaders/92751381817216154.png","qual":""},
-{"id":"doc-019","name":"Dr. Abraham George","dept":"Paediatrics","tag":"Pediatrics","img":"https://lakshmihospital.com/uploads/leaders/37749795057925054.jpg","qual":""},
-{"id":"doc-020","name":"Dr. Nidhi Nambiar","dept":"Paediatrics","tag":"Pediatrics","img":"https://lakshmihospital.com/uploads/leaders/2119449810608779708.png","qual":""},
-{"id":"doc-021","name":"Dr. Simon C.V.","dept":"Paediatrics","tag":"Pediatrics","img":"https://lakshmihospital.com/uploads/leaders/1228602097666145947.png","qual":""},
-{"id":"doc-022","name":"Dr. Sreeram Prasad","dept":"Neurology","tag":"Other","img":"https://lakshmihospital.com/uploads/leaders/1181265674303980097.jpg","qual":""},
-{"id":"doc-023","name":"Dr. C. Balachandran","dept":"General & Pediatric Surgery","tag":"Surgery","img":"https://lakshmihospital.com/uploads/leaders/165607483719966196.png","qual":""},
-{"id":"doc-024","name":"Dr. Ramya Thulaseedharan Pillai","dept":"General Surgery","tag":"Surgery","img":"https://lakshmihospital.com/uploads/leaders/15842011831189671102.png","qual":""},
-{"id":"doc-025","name":"Dr. Bestine Varghese","dept":"General Surgery","tag":"Surgery","img":"https://lakshmihospital.com/uploads/leaders/1372859784654263155.jpg","qual":""},
-{"id":"doc-026","name":"Dr. Bibin Johny","dept":"Nephrology","tag":"Other","img":"https://lakshmihospital.com/uploads/leaders/766971523799123032.jpg","qual":""},
-{"id":"doc-027","name":"Dr. Krishna Moorthy H.","dept":"Urology & Andrology","tag":"Surgery","img":"https://lakshmihospital.com/uploads/leaders/20950719851924434646.png","qual":""},
-{"id":"doc-028","name":"Dr. Sreenivasa Kamath","dept":"Internal Medicine","tag":"Other","img":"https://lakshmihospital.com/uploads/leaders/19321995871144582670.png","qual":""},
-{"id":"doc-029","name":"Dr. Raghu K. Wariyar","dept":"Internal Medicine","tag":"Other","img":"https://lakshmihospital.com/uploads/leaders/5478152321153046369.png","qual":""},
-{"id":"doc-030","name":"Dr. Ammu S. Narayanan","dept":"Internal Medicine","tag":"Other","img":"https://lakshmihospital.com/uploads/leaders/1970796144460841647.png","qual":""},
-{"id":"doc-031","name":"Dr. Mohanan Nair C.N.","dept":"Oncology - Medical","tag":"Oncology","img":"https://lakshmihospital.com/uploads/leaders/14551004671568712566.jpg","qual":""},
-{"id":"doc-032","name":"Dr. Harish R.","dept":"ENT","tag":"Other","img":"https://lakshmihospital.com/uploads/leaders/91370957462894716.png","qual":""},
-{"id":"doc-033","name":"Dr. Raveena","dept":"ENT","tag":"Other","img":"https://lakshmihospital.com/uploads/leaders/1550388231418198030.png","qual":""},
-{"id":"doc-034","name":"Dr. Shaji A.K.","dept":"Oncology - Surgical","tag":"Oncology","img":"https://lakshmihospital.com/uploads/leaders/13655287591776317898.jpg","qual":""},
-{"id":"doc-035","name":"Dr. Farha P. Nazeer","dept":"Dermatology","tag":"Other","img":"https://lakshmihospital.com/uploads/leaders/5822267141444967740.jpg","qual":""},
-{"id":"doc-036","name":"Dr. Balamani D.","dept":"Ophthalmology","tag":"Other","img":"https://lakshmihospital.com/uploads/leaders/1038640968121829525.png","qual":""},
-{"id":"doc-037","name":"Dr. Ram Mohan","dept":"Oral & Maxillo Facial Surgery","tag":"Surgery","img":"https://lakshmihospital.com/uploads/leaders/13670041221502457767.png","qual":""},
-{"id":"doc-038","name":"Dr. Jacob C. Cheeramalil","dept":"Orthodontics","tag":"Other","img":"https://lakshmihospital.com/uploads/leaders/13357194151105327434.png","qual":""},
-{"id":"doc-039","name":"Dr. Sindhu Ram Mohan","dept":"General Dentistry","tag":"Other","img":"https://lakshmihospital.com/uploads/leaders/892773560377269490.png","qual":""},
-{"id":"doc-040","name":"Dr. Aditya R. Mohan","dept":"General Dentistry","tag":"Other","img":"https://lakshmihospital.com/uploads/leaders/1874537041627435888.png","qual":"BDS, MDS"},
-{"id":"doc-041","name":"Dr. M.K. Mani","dept":"Orthopaedics","tag":"Orthopaedics","img":"https://lakshmihospital.com/uploads/leaders/2773642541042260749.png","qual":""},
-{"id":"doc-042","name":"Dr. Roy Varghese","dept":"Vascular Surgery","tag":"Surgery","img":"https://lakshmihospital.com/uploads/leaders/477199521544877160.jpg","qual":""},
-{"id":"doc-043","name":"Dr. Chinju Somanathan","dept":"Psychiatry","tag":"Other","img":"https://lakshmihospital.com/uploads/leaders/54148624922637049.jpg","qual":""},
-{"id":"doc-044","name":"Dr. Arya Sandhya Asok","dept":"Psychiatry","tag":"Other","img":"https://lakshmihospital.com/uploads/leaders/714895322868939482.jpg","qual":""},
-{"id":"doc-045","name":"Mrs. Ethel Sarah","dept":"Clinical Psychology","tag":"Other","img":"https://lakshmihospital.com/uploads/leaders/1748730513120749106.png","qual":""},
-{"id":"doc-046","name":"Dr. Anoop Kumar V.","dept":"Anesthesiology","tag":"Other","img":"https://lakshmihospital.com/uploads/leaders/1688642163580576350.png","qual":""},
-{"id":"doc-047","name":"Dr. Rajeev K.V.","dept":"Anesthesiology","tag":"Other","img":"https://lakshmihospital.com/uploads/leaders/18662736851274382624.jpg","qual":""},
-{"id":"doc-048","name":"Dr. Asha Mathew","dept":"Microbiology","tag":"Other","img":"https://lakshmihospital.com/uploads/leaders/164902851986743778.png","qual":""},
-{"id":"doc-049","name":"Dr. Jacinth Babu","dept":"Histopathology","tag":"Other","img":"https://lakshmihospital.com/uploads/leaders/15597597921278694497.png","qual":""},
-{"id":"doc-050","name":"Dr. Wilfred R.","dept":"Radiology","tag":"Other","img":"https://lakshmihospital.com/uploads/leaders/98985306592516244.png","qual":""},
-{"id":"doc-051","name":"Dr. Meera Mathew","dept":"Radiology","tag":"Other","img":"https://lakshmihospital.com/uploads/leaders/4620541781170942156.jpg","qual":""},
-{"id":"doc-052","name":"Dr. Vivek Anilkumar Saraf","dept":"Gastroenterology - Surgical","tag":"Surgery","img":"https://lakshmihospital.com/uploads/leaders/281133760499263299.png","qual":""},
-{"id":"doc-053","name":"Dr. Johny Cyriac","dept":"Gastroenterology - Medical","tag":"Other","img":"https://lakshmihospital.com/uploads/leaders/14108355261870102712.png","qual":""},
-{"id":"doc-054","name":"Dr. Titty Chacko","dept":"Infertility & Reproductive Medicine","tag":"Gynaecology","img":"https://lakshmihospital.com/uploads/leaders/6013565181127002954.png","qual":""},
-{"id":"doc-055","name":"Dr. Anil Balachandran","dept":"Interventional Cardiology","tag":"Cardiology","img":"https://lakshmihospital.com/uploads/leaders/1799059546106749495.png","qual":""},
-{"id":"doc-056","name":"Dr. Mini G. Pillai","dept":"Diabetes & Endocrinology","tag":"Other","img":"https://lakshmihospital.com/uploads/leaders/2133266430201055765.jpg","qual":""},
-{"id":"doc-057","name":"Dr. Ramesh Nair K.M.","dept":"Pulmonology","tag":"Other","img":"https://lakshmihospital.com/uploads/leaders/13634259481651218899.png","qual":""},
-{"id":"doc-058","name":"Dr. Prince George Varghese","dept":"Pulmonology","tag":"Other","img":"https://lakshmihospital.com/uploads/leaders/53556681958339462.jpg","qual":""},
-{"id":"doc-059","name":"Dr. Surej G.N.","dept":"Orthopaedics & Joint Replacement","tag":"Orthopaedics","img":"https://lakshmihospital.com/uploads/leaders/4364737351520625162.png","qual":""},
-{"id":"doc-060","name":"Dr. Joseph George","dept":"Orthopaedics & Joint Replacement","tag":"Orthopaedics","img":"https://lakshmihospital.com/uploads/leaders/7340450191547206435.png","qual":""},
-{"id":"doc-061","name":"Dr. K.R. Prathap Kumar","dept":"Orthopaedics, Shoulder & Elbow","tag":"Orthopaedics","img":"https://lakshmihospital.com/uploads/leaders/11597375471976514388.jpg","qual":""},
-{"id":"doc-062","name":"Dr. Surabhi Gupta","dept":"Critical Care Medicine","tag":"Other","img":"https://lakshmihospital.com/uploads/leaders/877551945981386516.jpg","qual":""}]
+[
+  {
+    "id": "doc-001",
+    "name": "Dr. K.K.R. Wariyar",
+    "dept": "Founder & Chief Paediatrician",
+    "tag": "Pediatrics",
+    "img": "https://lakshmihospital.com/ckfinder/userfiles/files/wariar.jpeg",
+    "qual": "MBBS (Manipal), DCH (London & Ireland)"
+  },
+  {
+    "id": "doc-002",
+    "name": "Dr. Sreelatha Warrier",
+    "dept": "Obstetrics & Gynaecology",
+    "tag": "Gynaecology",
+    "img": "https://lakshmihospital.com/uploads/leaders/21083283151647291943.jpg",
+    "qual": ""
+  },
+  {
+    "id": "doc-003",
+    "name": "Dr. Syamala V.P.",
+    "dept": "Obstetrics & Gynaecology",
+    "tag": "Gynaecology",
+    "img": "https://lakshmihospital.com/uploads/leaders/2002600119819024211.png",
+    "qual": ""
+  },
+  {
+    "id": "doc-004",
+    "name": "Dr. Nejumunneesa",
+    "dept": "Obstetrics & Gynaecology",
+    "tag": "Gynaecology",
+    "img": "https://lakshmihospital.com/uploads/leaders/13577897643664875.png",
+    "qual": ""
+  },
+  {
+    "id": "doc-005",
+    "name": "Dr. Reshma Raj",
+    "dept": "Obstetrics & Gynaecology",
+    "tag": "Gynaecology",
+    "img": "https://lakshmihospital.com/uploads/leaders/200221776289694839.png",
+    "qual": ""
+  },
+  {
+    "id": "doc-006",
+    "name": "Dr. Anju Viswanath",
+    "dept": "Obstetrics & Gynaecology",
+    "tag": "Gynaecology",
+    "img": "https://lakshmihospital.com/uploads/leaders/513867882663851787.png",
+    "qual": ""
+  },
+  {
+    "id": "doc-007",
+    "name": "Dr. Gayathri M.S.",
+    "dept": "Obstetrics & Gynaecology",
+    "tag": "Gynaecology",
+    "img": "https://lakshmihospital.com/uploads/leaders/10117298531852090939.png",
+    "qual": ""
+  },
+  {
+    "id": "doc-008",
+    "name": "Dr. Sujatha Jayalal",
+    "dept": "Obstetrics & Gynaecology",
+    "tag": "Gynaecology",
+    "img": "https://lakshmihospital.com/uploads/leaders/3505391351226219659.png",
+    "qual": ""
+  },
+  {
+    "id": "doc-009",
+    "name": "Dr. Sarada A.J.",
+    "dept": "Obstetrics & Gynaecology",
+    "tag": "Gynaecology",
+    "img": "https://lakshmihospital.com/uploads/leaders/9476810611998858701.jpg",
+    "qual": ""
+  },
+  {
+    "id": "doc-010",
+    "name": "Dr. Suja S. Dharan",
+    "dept": "Obstetrics & Gynaecology",
+    "tag": "Gynaecology",
+    "img": "https://lakshmihospital.com/uploads/leaders/12128724722014555493.jpg",
+    "qual": ""
+  },
+  {
+    "id": "doc-011",
+    "name": "Dr. Malini Krishnan",
+    "dept": "Obstetrics & Gynaecology",
+    "tag": "Gynaecology",
+    "img": "https://lakshmihospital.com/uploads/leaders/8556212611097764506.jpg",
+    "qual": ""
+  },
+  {
+    "id": "doc-012",
+    "name": "Dr. Sruthy Rejitha Sudarsan",
+    "dept": "Obstetrics & Gynaecology",
+    "tag": "Gynaecology",
+    "img": "https://lakshmihospital.com/uploads/leaders/245312965145209641.jpg",
+    "qual": ""
+  },
+  {
+    "id": "doc-013",
+    "name": "Dr. Molly E. Joseph",
+    "dept": "Obstetrics & Gynaecology",
+    "tag": "Gynaecology",
+    "img": "https://lakshmihospital.com/uploads/leaders/3193754881361448743.jpg",
+    "qual": ""
+  },
+  {
+    "id": "doc-014",
+    "name": "Dr. Manasa Saraswathy K.",
+    "dept": "Obstetrics & Gynaecology",
+    "tag": "Gynaecology",
+    "img": "https://lakshmihospital.com/uploads/leaders/12164486031584696876.png",
+    "qual": ""
+  },
+  {
+    "id": "doc-015",
+    "name": "Dr. Anupama Karthik",
+    "dept": "Fetal Medicine",
+    "tag": "Gynaecology",
+    "img": "https://lakshmihospital.com/uploads/leaders/9593602701663093694.jpg",
+    "qual": ""
+  },
+  {
+    "id": "doc-016",
+    "name": "Dr. Manoj V.C.",
+    "dept": "Neonatology",
+    "tag": "Neonatology",
+    "img": "https://lakshmihospital.com/uploads/leaders/292128759838618704.png",
+    "qual": ""
+  },
+  {
+    "id": "doc-017",
+    "name": "Dr. Sherin Naseer Ahamed",
+    "dept": "Neonatology",
+    "tag": "Neonatology",
+    "img": "https://lakshmihospital.com/uploads/leaders/9747229661244662522.png",
+    "qual": ""
+  },
+  {
+    "id": "doc-018",
+    "name": "Dr. Tenina Rose",
+    "dept": "Neonatology",
+    "tag": "Neonatology",
+    "img": "https://lakshmihospital.com/uploads/leaders/10700302102053173974.jpg",
+    "qual": ""
+  },
+  {
+    "id": "doc-019",
+    "name": "Dr. Sujith Kumar T.J.",
+    "dept": "Neonatology",
+    "tag": "Neonatology",
+    "img": "https://lakshmihospital.com/uploads/leaders/66846581327727067.jpg",
+    "qual": ""
+  },
+  {
+    "id": "doc-020",
+    "name": "Dr. Rema Gopinath",
+    "dept": "Paediatrics",
+    "tag": "Pediatrics",
+    "img": "https://lakshmihospital.com/uploads/leaders/19531447051367535863.png",
+    "qual": ""
+  },
+  {
+    "id": "doc-021",
+    "name": "Dr. Pramod Wariyar",
+    "dept": "Paediatrics",
+    "tag": "Pediatrics",
+    "img": "https://lakshmihospital.com/uploads/leaders/4517917811784856427.jpg",
+    "qual": ""
+  },
+  {
+    "id": "doc-022",
+    "name": "Dr. Thulasi C.",
+    "dept": "Paediatrics",
+    "tag": "Pediatrics",
+    "img": "https://lakshmihospital.com/uploads/leaders/92751381817216154.png",
+    "qual": ""
+  },
+  {
+    "id": "doc-023",
+    "name": "Dr. Abraham George",
+    "dept": "Paediatrics",
+    "tag": "Pediatrics",
+    "img": "https://lakshmihospital.com/uploads/leaders/37749795057925054.jpg",
+    "qual": ""
+  },
+  {
+    "id": "doc-024",
+    "name": "Dr. Nidhi Nambiar",
+    "dept": "Paediatrics",
+    "tag": "Pediatrics",
+    "img": "https://lakshmihospital.com/uploads/leaders/2119449810608779708.png",
+    "qual": ""
+  },
+  {
+    "id": "doc-025",
+    "name": "Dr. Simon C.V.",
+    "dept": "Paediatrics",
+    "tag": "Pediatrics",
+    "img": "https://lakshmihospital.com/uploads/leaders/1228602097666145947.png",
+    "qual": ""
+  },
+  {
+    "id": "doc-026",
+    "name": "Dr. Ammu Rose Mathew",
+    "dept": "Paediatrics",
+    "tag": "Pediatrics",
+    "img": "https://lakshmihospital.com/uploads/leaders/264720940339491418.png",
+    "qual": ""
+  },
+  {
+    "id": "doc-027",
+    "name": "Dr. Tessa Shelly",
+    "dept": "Paediatrics",
+    "tag": "Pediatrics",
+    "img": "https://lakshmihospital.com/uploads/leaders/194695503494113513.jpg",
+    "qual": ""
+  },
+  {
+    "id": "doc-028",
+    "name": "Dr. Tenina Rose Kuncheria",
+    "dept": "Paediatrics",
+    "tag": "Pediatrics",
+    "img": "https://lakshmihospital.com/uploads/leaders/16315640322072193600.jpg",
+    "qual": ""
+  },
+  {
+    "id": "doc-029",
+    "name": "Dr. Sreeram Prasad",
+    "dept": "Neurology",
+    "tag": "Other",
+    "img": "https://lakshmihospital.com/uploads/leaders/1181265674303980097.jpg",
+    "qual": ""
+  },
+  {
+    "id": "doc-030",
+    "name": "Dr. C. Balachandran",
+    "dept": "General & Pediatric Surgery",
+    "tag": "Surgery",
+    "img": "https://lakshmihospital.com/uploads/leaders/165607483719966196.png",
+    "qual": ""
+  },
+  {
+    "id": "doc-031",
+    "name": "Dr. Ramya Thulaseedharan Pillai",
+    "dept": "General Surgery",
+    "tag": "Surgery",
+    "img": "https://lakshmihospital.com/uploads/leaders/15842011831189671102.png",
+    "qual": ""
+  },
+  {
+    "id": "doc-032",
+    "name": "Dr. Bestine Varghese",
+    "dept": "General Surgery",
+    "tag": "Surgery",
+    "img": "https://lakshmihospital.com/uploads/leaders/1372859784654263155.jpg",
+    "qual": ""
+  },
+  {
+    "id": "doc-033",
+    "name": "Dr. Bibin Johny",
+    "dept": "Nephrology",
+    "tag": "Other",
+    "img": "https://lakshmihospital.com/uploads/leaders/766971523799123032.jpg",
+    "qual": ""
+  },
+  {
+    "id": "doc-034",
+    "name": "Dr. Krishna Moorthy H.",
+    "dept": "Urology & Andrology",
+    "tag": "Surgery",
+    "img": "https://lakshmihospital.com/uploads/leaders/20950719851924434646.png",
+    "qual": ""
+  },
+  {
+    "id": "doc-035",
+    "name": "Dr. Sreenivasa Kamath",
+    "dept": "Internal Medicine",
+    "tag": "Other",
+    "img": "https://lakshmihospital.com/uploads/leaders/19321995871144582670.png",
+    "qual": ""
+  },
+  {
+    "id": "doc-036",
+    "name": "Dr. Raghu K. Wariyar",
+    "dept": "Internal Medicine",
+    "tag": "Other",
+    "img": "https://lakshmihospital.com/uploads/leaders/5478152321153046369.png",
+    "qual": ""
+  },
+  {
+    "id": "doc-037",
+    "name": "Dr. Ammu S. Narayanan",
+    "dept": "Internal Medicine",
+    "tag": "Other",
+    "img": "https://lakshmihospital.com/uploads/leaders/1970796144460841647.png",
+    "qual": ""
+  },
+  {
+    "id": "doc-038",
+    "name": "Dr. Geena Jacob",
+    "dept": "Internal Medicine",
+    "tag": "Other",
+    "img": "https://lakshmihospital.com/uploads/leaders/1900265557545870744.jpg",
+    "qual": ""
+  },
+  {
+    "id": "doc-039",
+    "name": "Dr. Kurian Mathew",
+    "dept": "Internal Medicine",
+    "tag": "Other",
+    "img": "https://lakshmihospital.com/uploads/leaders/18002311051866963582.jpg",
+    "qual": ""
+  },
+  {
+    "id": "doc-040",
+    "name": "Dr. Hamsa N.P.",
+    "dept": "Internal Medicine",
+    "tag": "Other",
+    "img": "https://lakshmihospital.com/uploads/leaders/9228589511004711688.jpg",
+    "qual": ""
+  },
+  {
+    "id": "doc-041",
+    "name": "Dr. Mohanan Nair C.N.",
+    "dept": "Oncology - Medical",
+    "tag": "Oncology",
+    "img": "https://lakshmihospital.com/uploads/leaders/14551004671568712566.jpg",
+    "qual": ""
+  },
+  {
+    "id": "doc-042",
+    "name": "Dr. Harish R.",
+    "dept": "ENT",
+    "tag": "Other",
+    "img": "https://lakshmihospital.com/uploads/leaders/91370957462894716.png",
+    "qual": ""
+  },
+  {
+    "id": "doc-043",
+    "name": "Dr. Raveena",
+    "dept": "ENT",
+    "tag": "Other",
+    "img": "https://lakshmihospital.com/uploads/leaders/1550388231418198030.png",
+    "qual": ""
+  },
+  {
+    "id": "doc-044",
+    "name": "Dr. Parvathy A.P.",
+    "dept": "ENT",
+    "tag": "Other",
+    "img": "https://lakshmihospital.com/uploads/leaders/3821444241228800547.jpg",
+    "qual": ""
+  },
+  {
+    "id": "doc-045",
+    "name": "Dr. Akshay S. Panackkal",
+    "dept": "ENT",
+    "tag": "Other",
+    "img": "https://lakshmihospital.com/uploads/leaders/13249804741924978454.jpg",
+    "qual": ""
+  },
+  {
+    "id": "doc-046",
+    "name": "Dr. Shaji A.K.",
+    "dept": "Oncology - Surgical",
+    "tag": "Oncology",
+    "img": "https://lakshmihospital.com/uploads/leaders/13655287591776317898.jpg",
+    "qual": ""
+  },
+  {
+    "id": "doc-047",
+    "name": "Dr. Farha P. Nazeer",
+    "dept": "Dermatology",
+    "tag": "Other",
+    "img": "https://lakshmihospital.com/uploads/leaders/5822267141444967740.jpg",
+    "qual": ""
+  },
+  {
+    "id": "doc-048",
+    "name": "Dr. Mohammed Faizal",
+    "dept": "Dermatology",
+    "tag": "Other",
+    "img": "https://lakshmihospital.com/uploads/leaders/14358846971041008299.jpg",
+    "qual": ""
+  },
+  {
+    "id": "doc-049",
+    "name": "Dr. Balamani D.",
+    "dept": "Ophthalmology",
+    "tag": "Other",
+    "img": "https://lakshmihospital.com/uploads/leaders/1038640968121829525.png",
+    "qual": ""
+  },
+  {
+    "id": "doc-050",
+    "name": "Dr. Ram Mohan",
+    "dept": "Oral & Maxillo Facial Surgery",
+    "tag": "Surgery",
+    "img": "https://lakshmihospital.com/uploads/leaders/13670041221502457767.png",
+    "qual": ""
+  },
+  {
+    "id": "doc-051",
+    "name": "Dr. Arul Dev D.P.",
+    "dept": "Oral & Maxillo Facial Surgery",
+    "tag": "Surgery",
+    "img": "https://lakshmihospital.com/uploads/leaders/170560232079442379.png",
+    "qual": ""
+  },
+  {
+    "id": "doc-052",
+    "name": "Dr. Jacob C. Cheeramalil",
+    "dept": "Orthodontics",
+    "tag": "Other",
+    "img": "https://lakshmihospital.com/uploads/leaders/13357194151105327434.png",
+    "qual": ""
+  },
+  {
+    "id": "doc-053",
+    "name": "Dr. Arun R.",
+    "dept": "Orthodontics",
+    "tag": "Other",
+    "img": "https://lakshmihospital.com/uploads/leaders/1747681155760816162.jpg",
+    "qual": ""
+  },
+  {
+    "id": "doc-054",
+    "name": "Dr. Sindhu Ram Mohan",
+    "dept": "General Dentistry",
+    "tag": "Other",
+    "img": "https://lakshmihospital.com/uploads/leaders/892773560377269490.png",
+    "qual": ""
+  },
+  {
+    "id": "doc-055",
+    "name": "Dr. Herbert Christian Leveiro",
+    "dept": "General Dentistry",
+    "tag": "Other",
+    "img": "https://lakshmihospital.com/uploads/leaders/9502922702108466319.jpg",
+    "qual": ""
+  },
+  {
+    "id": "doc-056",
+    "name": "Dr. Aditya R. Mohan",
+    "dept": "General Dentistry",
+    "tag": "Other",
+    "img": "https://lakshmihospital.com/uploads/leaders/1874537041627435888.png",
+    "qual": "BDS, MDS"
+  },
+  {
+    "id": "doc-057",
+    "name": "Dr. Dona Thomas",
+    "dept": "General Dentistry",
+    "tag": "Other",
+    "img": "https://lakshmihospital.com/uploads/leaders/17974382401298212537.jpg",
+    "qual": ""
+  },
+  {
+    "id": "doc-058",
+    "name": "Dr. M.K. Mani",
+    "dept": "Orthopaedics",
+    "tag": "Orthopaedics",
+    "img": "https://lakshmihospital.com/uploads/leaders/2773642541042260749.png",
+    "qual": ""
+  },
+  {
+    "id": "doc-059",
+    "name": "Dr. Kiran A.M.",
+    "dept": "Orthopaedics",
+    "tag": "Orthopaedics",
+    "img": "https://lakshmihospital.com/uploads/leaders/3987993692056025447.jpg",
+    "qual": ""
+  },
+  {
+    "id": "doc-060",
+    "name": "Dr. Roy Varghese",
+    "dept": "Vascular Surgery",
+    "tag": "Surgery",
+    "img": "https://lakshmihospital.com/uploads/leaders/477199521544877160.jpg",
+    "qual": ""
+  },
+  {
+    "id": "doc-061",
+    "name": "Dr. Chinju Somanathan",
+    "dept": "Psychiatry",
+    "tag": "Other",
+    "img": "https://lakshmihospital.com/uploads/leaders/54148624922637049.jpg",
+    "qual": ""
+  },
+  {
+    "id": "doc-062",
+    "name": "Dr. Arya Sandhya Asok",
+    "dept": "Psychiatry",
+    "tag": "Other",
+    "img": "https://lakshmihospital.com/uploads/leaders/714895322868939482.jpg",
+    "qual": ""
+  },
+  {
+    "id": "doc-063",
+    "name": "Mrs. Ethel Sarah",
+    "dept": "Clinical Psychology",
+    "tag": "Other",
+    "img": "https://lakshmihospital.com/uploads/leaders/1748730513120749106.png",
+    "qual": ""
+  },
+  {
+    "id": "doc-064",
+    "name": "Dr. Anoop Kumar V.",
+    "dept": "Anesthesiology",
+    "tag": "Other",
+    "img": "https://lakshmihospital.com/uploads/leaders/1688642163580576350.png",
+    "qual": ""
+  },
+  {
+    "id": "doc-065",
+    "name": "Dr. Rajeev K.V.",
+    "dept": "Anesthesiology",
+    "tag": "Other",
+    "img": "https://lakshmihospital.com/uploads/leaders/18662736851274382624.jpg",
+    "qual": ""
+  },
+  {
+    "id": "doc-066",
+    "name": "Dr. Rejeena",
+    "dept": "Anesthesiology",
+    "tag": "Other",
+    "img": "https://lakshmihospital.com/uploads/leaders/20503846151621609193.jpg",
+    "qual": ""
+  },
+  {
+    "id": "doc-067",
+    "name": "Dr. Asha Mathew",
+    "dept": "Microbiology",
+    "tag": "Other",
+    "img": "https://lakshmihospital.com/uploads/leaders/164902851986743778.png",
+    "qual": ""
+  },
+  {
+    "id": "doc-068",
+    "name": "Dr. Jacinth Babu",
+    "dept": "Histopathology",
+    "tag": "Other",
+    "img": "https://lakshmihospital.com/uploads/leaders/15597597921278694497.png",
+    "qual": ""
+  },
+  {
+    "id": "doc-069",
+    "name": "Dr. Maimie Sarah Cherian",
+    "dept": "Histopathology",
+    "tag": "Other",
+    "img": "https://lakshmihospital.com/uploads/leaders/681576711933796752.png",
+    "qual": ""
+  },
+  {
+    "id": "doc-070",
+    "name": "Dr. Wilfred R.",
+    "dept": "Radiology",
+    "tag": "Other",
+    "img": "https://lakshmihospital.com/uploads/leaders/98985306592516244.png",
+    "qual": ""
+  },
+  {
+    "id": "doc-071",
+    "name": "Dr. Meera Mathew",
+    "dept": "Radiology",
+    "tag": "Other",
+    "img": "https://lakshmihospital.com/uploads/leaders/4620541781170942156.jpg",
+    "qual": ""
+  },
+  {
+    "id": "doc-072",
+    "name": "Dr. Asghar Majeed",
+    "dept": "Radiology",
+    "tag": "Other",
+    "img": "https://lakshmihospital.com/uploads/leaders/142856278168233019.jpg",
+    "qual": ""
+  },
+  {
+    "id": "doc-073",
+    "name": "Dr. Ammu Anne Mathew",
+    "dept": "Radiology",
+    "tag": "Other",
+    "img": "https://lakshmihospital.com/uploads/leaders/678261571650059130.jpg",
+    "qual": ""
+  },
+  {
+    "id": "doc-074",
+    "name": "Dr. Maheshwari M.",
+    "dept": "Radiology",
+    "tag": "Other",
+    "img": "https://lakshmihospital.com/uploads/leaders/177257161624647405.jpg",
+    "qual": ""
+  },
+  {
+    "id": "doc-075",
+    "name": "Dr. Vivek Anilkumar Saraf",
+    "dept": "Gastroenterology - Surgical",
+    "tag": "Surgery",
+    "img": "https://lakshmihospital.com/uploads/leaders/281133760499263299.png",
+    "qual": ""
+  },
+  {
+    "id": "doc-076",
+    "name": "Dr. Johny Cyriac",
+    "dept": "Gastroenterology - Medical",
+    "tag": "Other",
+    "img": "https://lakshmihospital.com/uploads/leaders/14108355261870102712.png",
+    "qual": ""
+  },
+  {
+    "id": "doc-077",
+    "name": "Dr. Titty Chacko",
+    "dept": "Infertility & Reproductive Medicine",
+    "tag": "Gynaecology",
+    "img": "https://lakshmihospital.com/uploads/leaders/6013565181127002954.png",
+    "qual": ""
+  },
+  {
+    "id": "doc-078",
+    "name": "Dr. Anil Balachandran",
+    "dept": "Interventional Cardiology",
+    "tag": "Cardiology",
+    "img": "https://lakshmihospital.com/uploads/leaders/1799059546106749495.png",
+    "qual": ""
+  },
+  {
+    "id": "doc-079",
+    "name": "Dr. Mini G. Pillai",
+    "dept": "Diabetes & Endocrinology",
+    "tag": "Other",
+    "img": "https://lakshmihospital.com/uploads/leaders/2133266430201055765.jpg",
+    "qual": ""
+  },
+  {
+    "id": "doc-080",
+    "name": "Dr. Ramesh Nair K.M.",
+    "dept": "Pulmonology",
+    "tag": "Other",
+    "img": "https://lakshmihospital.com/uploads/leaders/13634259481651218899.png",
+    "qual": ""
+  },
+  {
+    "id": "doc-081",
+    "name": "Dr. Prince George Varghese",
+    "dept": "Pulmonology",
+    "tag": "Other",
+    "img": "https://lakshmihospital.com/uploads/leaders/53556681958339462.jpg",
+    "qual": ""
+  },
+  {
+    "id": "doc-082",
+    "name": "Dr. Azif Khan",
+    "dept": "Embryology",
+    "tag": "Other",
+    "img": "",
+    "qual": ""
+  },
+  {
+    "id": "doc-083",
+    "name": "Dr. Surej G.N.",
+    "dept": "Orthopaedics & Joint Replacement",
+    "tag": "Orthopaedics",
+    "img": "https://lakshmihospital.com/uploads/leaders/4364737351520625162.png",
+    "qual": ""
+  },
+  {
+    "id": "doc-084",
+    "name": "Dr. Joseph George",
+    "dept": "Orthopaedics & Joint Replacement",
+    "tag": "Orthopaedics",
+    "img": "https://lakshmihospital.com/uploads/leaders/7340450191547206435.png",
+    "qual": ""
+  },
+  {
+    "id": "doc-085",
+    "name": "Dr. Faizal Kareem",
+    "dept": "Orthopaedics & Joint Replacement",
+    "tag": "Orthopaedics",
+    "img": "https://lakshmihospital.com/uploads/leaders/21455219621562796472.jpg",
+    "qual": ""
+  },
+  {
+    "id": "doc-086",
+    "name": "Dr. K.R. Prathap Kumar",
+    "dept": "Orthopaedics, Shoulder & Elbow",
+    "tag": "Orthopaedics",
+    "img": "https://lakshmihospital.com/uploads/leaders/11597375471976514388.jpg",
+    "qual": ""
+  },
+  {
+    "id": "doc-087",
+    "name": "Dr. Surabhi Gupta",
+    "dept": "Critical Care Medicine",
+    "tag": "Other",
+    "img": "https://lakshmihospital.com/uploads/leaders/877551945981386516.jpg",
+    "qual": ""
+  },
+  {
+    "id": "doc-088",
+    "name": "Dr. Anjali S.",
+    "dept": "Paediatric Dentistry",
+    "tag": "Other",
+    "img": "https://lakshmihospital.com/uploads/leaders/6428447791607183541.jpg",
+    "qual": ""
+  }
+]
