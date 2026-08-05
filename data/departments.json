@@ -1,42 +1,743 @@
 [
-  {"id":"dept-001","name":"Obstetrics & Gynaecology","cat":"speciality","blurb":"High-risk pregnancy care and comprehensive gynaecological diagnosis and treatment for women of all ages, including advanced laparoscopic procedures. Generations of local families began here."},
-  {"id":"dept-002","name":"Paediatrics","cat":"speciality","blurb":"One of the hospital's founding departments, offering round-the-clock paediatric care and accredited as a complete Baby-Friendly unit."},
-  {"id":"dept-003","name":"General Surgery","cat":"speciality","blurb":""},
-  {"id":"dept-004","name":"Internal Medicine","cat":"speciality","blurb":""},
-  {"id":"dept-005","name":"ENT","cat":"speciality","blurb":""},
-  {"id":"dept-006","name":"Dermatology","cat":"speciality","blurb":""},
-  {"id":"dept-007","name":"Ophthalmology","cat":"speciality","blurb":""},
-  {"id":"dept-008","name":"Oral & Maxillo Facial Surgery","cat":"speciality","blurb":""},
-  {"id":"dept-009","name":"Orthodontics","cat":"speciality","blurb":""},
-  {"id":"dept-010","name":"General Dentistry","cat":"speciality","blurb":""},
-  {"id":"dept-011","name":"Fetal Medicine","cat":"speciality","blurb":""},
-  {"id":"dept-012","name":"Orthopaedics","cat":"speciality","blurb":"Care for trauma, congenital deformities and musculoskeletal conditions, including emergency orthopaedic response."},
-  {"id":"dept-013","name":"Psychiatry","cat":"speciality","blurb":""},
-  {"id":"dept-014","name":"Clinical Psychology","cat":"speciality","blurb":""},
-  {"id":"dept-015","name":"Audiology & Speech Therapy","cat":"speciality","blurb":""},
-  {"id":"dept-016","name":"Anesthesiology","cat":"speciality","blurb":""},
-  {"id":"dept-017","name":"Microbiology","cat":"speciality","blurb":""},
-  {"id":"dept-018","name":"Histopathology","cat":"speciality","blurb":""},
-  {"id":"dept-019","name":"Radiology","cat":"speciality","blurb":""},
-  {"id":"dept-020","name":"Dietitian","cat":"speciality","blurb":""},
-  {"id":"dept-021","name":"Physiotherapy & Rehabilitation","cat":"speciality","blurb":""},
-  {"id":"dept-022","name":"Paediatric Dentistry","cat":"speciality","blurb":""},
-  {"id":"dept-023","name":"Neonatology","cat":"superspeciality","blurb":"A 14-bed NICU equipped with ventilators and phototherapy units, supporting even extremely preterm infants — NABH Gold digital health accredited."},
-  {"id":"dept-024","name":"Neurology","cat":"superspeciality","blurb":""},
-  {"id":"dept-025","name":"Pediatric & General Surgery","cat":"superspeciality","blurb":""},
-  {"id":"dept-026","name":"Nephrology","cat":"superspeciality","blurb":""},
-  {"id":"dept-027","name":"Urology & Andrology","cat":"superspeciality","blurb":""},
-  {"id":"dept-028","name":"Oncology - Medical","cat":"superspeciality","blurb":""},
-  {"id":"dept-029","name":"Oncology - Surgical","cat":"superspeciality","blurb":"Diagnostic and interventional cancer care — biopsies, excisions and chemotherapy — with radiotherapy coordinated through the Regional Cancer Centre, Trivandrum."},
-  {"id":"dept-030","name":"Vascular Surgery","cat":"superspeciality","blurb":""},
-  {"id":"dept-031","name":"Gastroenterology - Surgical","cat":"superspeciality","blurb":""},
-  {"id":"dept-032","name":"Gastroenterology - Medical","cat":"superspeciality","blurb":""},
-  {"id":"dept-033","name":"Infertility & Reproductive Medicine","cat":"superspeciality","blurb":""},
-  {"id":"dept-034","name":"Interventional Cardiology","cat":"superspeciality","blurb":"Advanced cardiac care addressing Kerala's rising burden of heart disease, from diagnostics through intervention."},
-  {"id":"dept-035","name":"Diabetes & Endocrinology","cat":"superspeciality","blurb":"Management of diabetes, thyroid disorders and obesity, paired with ongoing lifestyle guidance for patients."},
-  {"id":"dept-036","name":"Pulmonology","cat":"superspeciality","blurb":""},
-  {"id":"dept-037","name":"Embryology","cat":"superspeciality","blurb":""},
-  {"id":"dept-038","name":"Orthopaedics & Joint Replacement Surgery","cat":"superspeciality","blurb":""},
-  {"id":"dept-039","name":"Orthopaedics, Shoulder and Elbow","cat":"superspeciality","blurb":""},
-  {"id":"dept-040","name":"Critical Care Medicine","cat":"superspeciality","blurb":""}
+  {
+    "id": "dept-001",
+    "name": "Obstetrics & Gynaecology",
+    "cat": "speciality",
+    "blurb": "High-risk pregnancy care and comprehensive gynaecological diagnosis and treatment for women of all ages, including advanced laparoscopic procedures.",
+    "description": "One of Lakshmi Hospital's most established departments, built on decades of hands-on experience — a sizeable number of families across Ernakulam trace their own beginnings to deliveries here. High-risk pregnancies receive particularly close attention, and the department has set a regional benchmark in this area. Comprehensive diagnosis and treatment is available for women of all ages.",
+    "services": [
+      "Pap smear",
+      "Mammography",
+      "Uterine surgeries",
+      "Biopsies",
+      "Normal deliveries",
+      "LSCS (Lower Segment Caesarean Section)",
+      "Ultrasound scans & Color Doppler",
+      "Cervical encirclage",
+      "IUCD insertion & removal",
+      "Polypectomy",
+      "Cardiotocography (NST)"
+    ],
+    "advancedProcedures": [
+      "Stress incontinence surgery (TVT)",
+      "Myomectomy",
+      "LAVH and other minimally invasive procedures",
+      "Fothergill's operation",
+      "Laparoscopic-assisted vaginal/abdominal hysterectomy",
+      "Diagnostic hysteroscopy & laparoscopy",
+      "Laparoscopic management of ectopic pregnancy"
+    ],
+    "ernakulam": [
+      "Dr. Sreelatha Warrier",
+      "Dr. Syamala V.P.",
+      "Dr. Nejumunneesa",
+      "Dr. Reshma Raj",
+      "Dr. Anju Viswanath",
+      "Dr. Gayathri M.S.",
+      "Dr. Sujatha Jayalal"
+    ],
+    "aluva": [
+      "Dr. Sarada A.J.",
+      "Dr. Suja S. Dharan",
+      "Dr. Malini Krishnan",
+      "Dr. Sruthy Rejitha Sudarsan",
+      "Dr. Molly E. Joseph",
+      "Dr. Manasa Saraswathy K."
+    ]
+  },
+  {
+    "id": "dept-002",
+    "name": "Fetal Medicine",
+    "cat": "speciality",
+    "blurb": "Specialised maternal-fetal medicine for complicated, high-risk pregnancies — diagnosis and treatment for conditions affecting mother and baby in utero.",
+    "description": "Perinatology, also known as maternal-fetal medicine, focuses on specialised care for mothers and babies in complicated, high-risk pregnancies, covering diagnosis and treatment of conditions affecting the fetus before birth.",
+    "services": [
+      "First trimester anomaly scan & aneuploidy screening",
+      "Pre-eclampsia screening",
+      "Detailed targeted/Level II genetic sonogram (3D/4D)",
+      "Growth scan",
+      "Fetal echocardiography",
+      "Fetal neurosonogram",
+      "Prenatal counselling"
+    ],
+    "advancedProcedures": [
+      "Amniocentesis",
+      "Chorionic villus sampling",
+      "Amnioreduction & amnioinfusion",
+      "Fetal blood sampling",
+      "Selective fetal reduction",
+      "Intrauterine transfusions",
+      "Combined first trimester screening",
+      "Non-invasive prenatal testing (NIPT)",
+      "Karyotyping",
+      "Microarray",
+      "Mutation analysis"
+    ],
+    "ernakulam": [
+      "Dr. Anupama Karthik"
+    ],
+    "aluva": []
+  },
+  {
+    "id": "dept-003",
+    "name": "Paediatrics",
+    "cat": "speciality",
+    "blurb": "One of the hospital's founding departments, offering round-the-clock paediatric care and accredited as a complete Baby-Friendly unit.",
+    "description": "One of the hospital's foremost and earliest specialised departments. Common and uncommon childhood conditions are treated here, with Paediatric Surgery and Neonatology available as super-specialties. Round-the-clock paediatrician coverage is a distinguishing feature, and the department is accredited as a complete Baby-Friendly unit — leading to its evolution as a referral centre.",
+    "services": [],
+    "advancedProcedures": [],
+    "ernakulam": [
+      "Dr. Rema Gopinath",
+      "Dr. Pramod Wariyar",
+      "Dr. Thulasi C.",
+      "Dr. Abraham George",
+      "Dr. Nidhi Nambiar",
+      "Dr. Simon C.V.",
+      "Dr. Ammu Rose Mathew"
+    ],
+    "aluva": [
+      "Dr. Tessa Shelly",
+      "Dr. Tenina Rose Kuncheria",
+      "Dr. Sujith Kumar T.J."
+    ]
+  },
+  {
+    "id": "dept-004",
+    "name": "General Surgery",
+    "cat": "speciality",
+    "blurb": "Round-the-clock coverage for surgical emergencies, accidents, infections, and routine surgical care.",
+    "description": "General Surgery forms the lifeline for managing surgical emergencies, including accidents and trauma. The department is equipped to handle infections needing surgical intervention, surgical complications of systemic disease, and all routine surgeries, with a motivated team of surgeons and paramedics available around the clock.",
+    "services": [],
+    "advancedProcedures": [],
+    "ernakulam": [
+      "Dr. C. Balachandran",
+      "Dr. Ramya Thulaseedharan Pillai"
+    ],
+    "aluva": [
+      "Dr. Bestine Varghese",
+      "Dr. Ramya Thulaseedharan Pillai"
+    ]
+  },
+  {
+    "id": "dept-005",
+    "name": "Internal Medicine",
+    "cat": "speciality",
+    "blurb": "Comprehensive primary care and management of chronic adult conditions, with diagnostic precision behind every treatment plan.",
+    "description": "This field deals with the non-surgical treatment of disease through diagnosis, study, and medication management — including guidance for severe and terminal illness. The department provides basic and specialised care to the whole family through education, disease prevention, and diagnosis and treatment of adult conditions, including infectious and metabolic disease.",
+    "services": [],
+    "advancedProcedures": [],
+    "ernakulam": [
+      "Dr. Sreenivasa Kamath",
+      "Dr. Raghu K. Wariyar",
+      "Dr. Ammu S. Narayanan"
+    ],
+    "aluva": [
+      "Dr. Geena Jacob",
+      "Dr. Kurian Mathew",
+      "Dr. Hamsa N.P."
+    ]
+  },
+  {
+    "id": "dept-006",
+    "name": "ENT",
+    "cat": "speciality",
+    "blurb": "Specialised expertise for problems of the ear, nose and throat, backed by sophisticated equipment.",
+    "description": "The ENT department addresses the full range of ear, nose and throat conditions, attending to both Otorhinolaryngological emergencies and routine surgeries with a fine-tuned surgical approach.",
+    "services": [
+      "SMR (Submucous Resection)",
+      "Septoplasty",
+      "Caldwell-Luc procedure",
+      "Middle ear emergency care",
+      "Vocal cord corrective procedures"
+    ],
+    "advancedProcedures": [],
+    "ernakulam": [
+      "Dr. Harish R.",
+      "Dr. Raveena"
+    ],
+    "aluva": [
+      "Dr. Parvathy A.P.",
+      "Dr. Akshay S. Panackkal"
+    ]
+  },
+  {
+    "id": "dept-007",
+    "name": "Dermatology",
+    "cat": "speciality",
+    "blurb": "Diagnosis and treatment across the full range of skin conditions, from infections to congenital disorders.",
+    "description": "Skin conditions are treated here with close attention to overall health, since skin often reflects broader nutritional or systemic issues. The department manages topical fungal and bacterial infections, progressive conditions like leukoderma, and congenital conditions.",
+    "services": [],
+    "advancedProcedures": [],
+    "ernakulam": [
+      "Dr. Farha P. Nazeer"
+    ],
+    "aluva": [
+      "Dr. Mohammed Faizal"
+    ]
+  },
+  {
+    "id": "dept-008",
+    "name": "Ophthalmology",
+    "cat": "speciality",
+    "blurb": "Full diagnostic and surgical eye care, from routine vision correction to cataract and retinal treatment.",
+    "description": "The department addresses the full range of eye conditions, with ophthalmologists experienced across the intricacies of visual disorders and their treatment. Regular eye camps are also conducted, providing corrective care to those in need.",
+    "services": [
+      "Refraction",
+      "Fundoscopy",
+      "Indirect ophthalmoscopy",
+      "Contact lens prescription",
+      "Treatment for various eye diseases"
+    ],
+    "advancedProcedures": [
+      "PHACO",
+      "Corneal transplant",
+      "Intra-ocular lens implantation",
+      "Small incision cataract surgery",
+      "Squint correction",
+      "Endo DCR",
+      "Management of systemic retinopathies"
+    ],
+    "ernakulam": [
+      "Dr. Balamani D."
+    ],
+    "aluva": []
+  },
+  {
+    "id": "dept-009",
+    "name": "Oral & Maxillo Facial Surgery",
+    "cat": "speciality",
+    "blurb": "Specialist facial reconstruction and corrective surgery alongside routine dental procedures.",
+    "description": "Beyond routine dental care, this department specialises in orthognathic surgery — facial reconstruction, chin surgery, correction of facial asymmetries, and maxilla/mandible corrective surgery — carried out by an experienced surgical team.",
+    "services": [
+      "Dental implants",
+      "Temporomandibular joint surgery",
+      "Fixed orthodontics",
+      "Fixed partial denture",
+      "Root canal therapy"
+    ],
+    "advancedProcedures": [],
+    "ernakulam": [
+      "Dr. Ram Mohan"
+    ],
+    "aluva": [
+      "Dr. Arul Dev D.P."
+    ]
+  },
+  {
+    "id": "dept-010",
+    "name": "Orthodontics",
+    "cat": "speciality",
+    "blurb": "Modern orthodontic care from clear aligners to combined orthodontic-orthognathic treatment plans.",
+    "description": "The team provides top-rated orthodontic care, from clear aligners and ceramic braces to combined orthodontic and orthognathic surgical treatment for more complex dentofacial cases — always tailored to the individual patient's goals.",
+    "services": [],
+    "advancedProcedures": [],
+    "ernakulam": [
+      "Dr. Jacob C. Cheeramalil"
+    ],
+    "aluva": [
+      "Dr. Arun R."
+    ]
+  },
+  {
+    "id": "dept-011",
+    "name": "General Dentistry",
+    "cat": "speciality",
+    "blurb": "Routine and specialised dental care from a skilled, dedicated team.",
+    "description": "Skilled dentists and dedicated staff handle routine dental procedures alongside specialised orthognathic and reconstructive work, including facial correction, jaw surgery, and smile correction.",
+    "services": [
+      "Dental implants",
+      "Temporomandibular joint surgery (ankylosis)",
+      "Fixed orthodontics"
+    ],
+    "advancedProcedures": [],
+    "ernakulam": [
+      "Dr. Sindhu Ram Mohan",
+      "Dr. Herbert Christian Leveiro",
+      "Dr. Aditya R. Mohan"
+    ],
+    "aluva": [
+      "Dr. Dona Thomas",
+      "Dr. Aditya R. Mohan"
+    ]
+  },
+  {
+    "id": "dept-012",
+    "name": "Orthopaedics",
+    "cat": "speciality",
+    "blurb": "Care for trauma, congenital deformities and musculoskeletal conditions, including emergency orthopaedic response.",
+    "description": "Patients with accident injuries, congenital deformities, musculoskeletal disease, and orthopaedic emergencies find treatment here. Knee replacement surgery is performed on a regular basis, with post-operative rehabilitation supporting recovery.",
+    "services": [
+      "Strapping",
+      "Plastering",
+      "Closed reduction & POP",
+      "Open reduction & fixation",
+      "Intra-articular injections",
+      "Aspirations",
+      "Incision & drainage",
+      "Suturing",
+      "Surgical toilet",
+      "Traction"
+    ],
+    "advancedProcedures": [
+      "Ilizarov's technique",
+      "Hip & knee replacement",
+      "Arthroscopy",
+      "Arthroplasty",
+      "K-wire fixation",
+      "Tension band wiring"
+    ],
+    "ernakulam": [
+      "Dr. M.K. Mani"
+    ],
+    "aluva": [
+      "Dr. Kiran A.M."
+    ]
+  },
+  {
+    "id": "dept-013",
+    "name": "Psychiatry",
+    "cat": "speciality",
+    "blurb": "Psychiatric care combining medication, counselling, and group support for mental health conditions.",
+    "description": "Modern living brings rising stress, and sometimes underlying disease affects the nervous system in ways that alter mood and behaviour. Noted psychiatrists, counsellors, and medical psychiatrists use modern techniques with medication offered only when necessary — the emphasis is on counselling, group activity, and structured support.",
+    "services": [],
+    "advancedProcedures": [],
+    "ernakulam": [
+      "Dr. Chinju Somanathan",
+      "Dr. Arya Sandhya Asok"
+    ],
+    "aluva": []
+  },
+  {
+    "id": "dept-014",
+    "name": "Clinical Psychology",
+    "cat": "speciality",
+    "blurb": "Counselling-led mental health support alongside the Psychiatry department.",
+    "description": "Working closely alongside Psychiatry, this department focuses on counselling, group activity, and relaxation-based approaches to help patients manage stress and behavioural changes.",
+    "services": [],
+    "advancedProcedures": [],
+    "ernakulam": [
+      "Mrs. Ethel Sarah"
+    ],
+    "aluva": []
+  },
+  {
+    "id": "dept-015",
+    "name": "Audiology & Speech Therapy",
+    "cat": "speciality",
+    "blurb": "Hearing and speech assessment, newborn hearing screening, and communication therapy.",
+    "description": "This department assesses hearing and balance problems and supports patients who use hearing aids, working closely with ENT. All newborns are screened for hearing defects with follow-up care, alongside evaluation and treatment for communication, cognition, and voice disorders.",
+    "services": [],
+    "advancedProcedures": [],
+    "ernakulam": [],
+    "aluva": []
+  },
+  {
+    "id": "dept-016",
+    "name": "Anesthesiology",
+    "cat": "speciality",
+    "blurb": "Anesthesia and critical care support across cardiac, paediatric, obstetric and orthopaedic surgery.",
+    "description": "The department provides anesthesia across all surgical specialties — cardiac, paediatric surgery including neonates, obstetrics & gynaecology, and orthopaedics including trauma and joint replacement — with anesthesiologists also qualified in pain medicine, labour analgesia, and critical care.",
+    "services": [
+      "Pre-operative check-up",
+      "Peri-operative care",
+      "Post-operative recovery",
+      "Labour analgesia (including epidural)",
+      "ICU care"
+    ],
+    "advancedProcedures": [],
+    "ernakulam": [
+      "Dr. Anoop Kumar V.",
+      "Dr. Rajeev K.V."
+    ],
+    "aluva": [
+      "Dr. Rejeena"
+    ]
+  },
+  {
+    "id": "dept-017",
+    "name": "Microbiology",
+    "cat": "speciality",
+    "blurb": "Diagnostic microbiology supporting infection detection and treatment across the hospital.",
+    "description": "The Microbiology department supports diagnosis and treatment across the hospital through laboratory analysis of infections and pathogens.",
+    "services": [],
+    "advancedProcedures": [],
+    "ernakulam": [
+      "Dr. Asha Mathew"
+    ],
+    "aluva": []
+  },
+  {
+    "id": "dept-018",
+    "name": "Histopathology",
+    "cat": "speciality",
+    "blurb": "Laboratory diagnostics including cytology, fine needle aspiration, and histopathologic studies.",
+    "description": "The department provides laboratory clinical services with a strong point-of-care focus, extending to cytologic fluid analysis, fine needle aspiration cytology, and histopathologic studies with clinical correlation.",
+    "services": [],
+    "advancedProcedures": [],
+    "ernakulam": [
+      "Dr. Jacinth Babu",
+      "Dr. Maimie Sarah Cherian"
+    ],
+    "aluva": []
+  },
+  {
+    "id": "dept-019",
+    "name": "Radiology",
+    "cat": "speciality",
+    "blurb": "High-precision diagnostic imaging using modern imaging technology.",
+    "description": "The Radiology department uses hi-tech imaging techniques to provide pinpoint accuracy in diagnostic imaging across the hospital.",
+    "services": [],
+    "advancedProcedures": [],
+    "ernakulam": [
+      "Dr. Wilfred R.",
+      "Dr. Meera Mathew",
+      "Dr. Asghar Majeed",
+      "Dr. Ammu Anne Mathew"
+    ],
+    "aluva": [
+      "Dr. Maheshwari M."
+    ]
+  },
+  {
+    "id": "dept-020",
+    "name": "Dietitian",
+    "cat": "speciality",
+    "blurb": "Hospital diet planning, dietary education, and nutrition counselling for inpatients.",
+    "description": "The dietary service ensures clean, hygienic, and nutritious meals for inpatients based on individual caloric needs, alongside dietary education and diet counselling, with careful selection, procurement, and storage of food.",
+    "services": [
+      "Planning & management of hospital diet",
+      "Dietary education",
+      "Diet counselling"
+    ],
+    "advancedProcedures": [],
+    "ernakulam": [],
+    "aluva": []
+  },
+  {
+    "id": "dept-021",
+    "name": "Physiotherapy & Rehabilitation",
+    "cat": "speciality",
+    "blurb": "Full-fledged physiotherapy supporting neuro, ortho, and post-surgical rehabilitation across departments.",
+    "description": "A full-fledged Physiotherapy department serves the varied needs of the hospital's many specialties, supporting invasive procedures and treatments with essential rehabilitative care, including dedicated Electrotherapy and Exercise Therapy sections.",
+    "services": [
+      "Neuro rehabilitation procedures",
+      "Ortho rehabilitation",
+      "Rehabilitation for cerebral palsy in children",
+      "Chest physiotherapy",
+      "Pre-natal & post-natal classes (with Gynaecology)",
+      "Joint manipulation for stiff joints",
+      "Post-surgical rehabilitation after joint arthroplasty"
+    ],
+    "advancedProcedures": [
+      "SWD",
+      "Ultrasound therapy",
+      "TENS",
+      "IFT",
+      "Electric stimulator",
+      "Wax bath",
+      "Traction unit"
+    ],
+    "ernakulam": [],
+    "aluva": []
+  },
+  {
+    "id": "dept-022",
+    "name": "Paediatric Dentistry",
+    "cat": "speciality",
+    "blurb": "Dedicated dental care for children.",
+    "description": "A dedicated dental care service for children's oral health needs.",
+    "services": [],
+    "advancedProcedures": [],
+    "ernakulam": [],
+    "aluva": [
+      "Dr. Anjali S."
+    ]
+  },
+  {
+    "id": "dept-023",
+    "name": "Neonatology",
+    "cat": "superspeciality",
+    "blurb": "A 14-bed NICU equipped with ventilators and phototherapy units, supporting even extremely preterm infants — NABH Gold digital health accredited.",
+    "description": "Neonates with congenital problems and complications soon after birth are cared for in a 14-bed NICU, well equipped with ventilators and phototherapy units to support even the most extremely preterm babies. The unit is an established level-three referral centre run by a dedicated team of doctors and staff, with exclusive Neonatal ICU, Intermediate ICU, and Paediatric ICU facilities.",
+    "services": [
+      "Care for sick newborns, including ventilation & phototherapy for jaundice",
+      "Evaluation & management of very sick children",
+      "Neurosonography in premature/high-risk babies",
+      "Screening for eye disease of prematurity",
+      "Hearing screening",
+      "Neonatal follow-up & immunizations",
+      "Exchange transfusion when needed"
+    ],
+    "advancedProcedures": [
+      "Neonatal resuscitation",
+      "Laparoscopic appendicectomy",
+      "Laparoscopic cholecystectomy",
+      "Laparoscopic orchiopexy",
+      "Cleft lip correction",
+      "Palate repair",
+      "Treatment for congenital diaphragmatic hernia, anorectal malformations, Hirschsprung's disease, childhood tumors, and tracheo-oesophageal fistula"
+    ],
+    "ernakulam": [
+      "Dr. Manoj V.C.",
+      "Dr. Sherin Naseer Ahamed"
+    ],
+    "aluva": [
+      "Dr. Tenina Rose",
+      "Dr. Sujith Kumar T.J."
+    ]
+  },
+  {
+    "id": "dept-024",
+    "name": "Neurology",
+    "cat": "superspeciality",
+    "blurb": "Critical and long-term care for neurological disease, including stroke, epilepsy, and neuro-oncology.",
+    "description": "Focusing on disorders of the central nervous system, the Neurology department provides critical and long-term care for patients with neurological disease. Investigation and management covers strokes, epilepsy and cancer, supported by critical care ventilators, EEG, and brain mapping facilities.",
+    "services": [],
+    "advancedProcedures": [],
+    "ernakulam": [
+      "Dr. Sreeram Prasad"
+    ],
+    "aluva": []
+  },
+  {
+    "id": "dept-025",
+    "name": "Pediatric & General Surgery",
+    "cat": "superspeciality",
+    "blurb": "Surgical care for infants and children, from congenital malformations to laparoscopic procedures.",
+    "description": "This subspecialty manages congenital malformations such as cleft lip and palate, esophageal atresia and tracheoesophageal fistula, hypertrophic pyloric stenosis, intestinal atresia, necrotizing enterocolitis, Hirschsprung's disease, imperforate anus, undescended testes, omphalocele, hernias, and congenital hydrocoele, along with conditions like intussusception and appendicitis. Laparoscopic surgery is performed within the unit.",
+    "services": [],
+    "advancedProcedures": [],
+    "ernakulam": [
+      "Dr. C. Balachandran"
+    ],
+    "aluva": []
+  },
+  {
+    "id": "dept-026",
+    "name": "Nephrology",
+    "cat": "superspeciality",
+    "blurb": "Kidney care spanning both direct kidney disease and systemic conditions like diabetes and hypertension.",
+    "description": "Nephrology covers systemic conditions that affect the kidneys — such as diabetes and autoimmune disease — as well as systemic effects that follow from kidney disease, like renal osteodystrophy and hypertension, under a certified nephrologist's care.",
+    "services": [],
+    "advancedProcedures": [],
+    "ernakulam": [
+      "Dr. Bibin Johny"
+    ],
+    "aluva": [
+      "Dr. Bibin Johny"
+    ]
+  },
+  {
+    "id": "dept-027",
+    "name": "Urology & Andrology",
+    "cat": "superspeciality",
+    "blurb": "Advanced solutions for congenital, traumatic and age-related urological conditions.",
+    "description": "With kidney and bladder-related conditions on the rise — including enlarged prostate — this department offers advanced care for congenital, traumatic, and age-related urological maladies.",
+    "services": [
+      "Transurethral resection of prostate",
+      "Bladder neoplasm management",
+      "Endoscopic correction of strictures",
+      "Posterior urethral valve procedures",
+      "Renal angiography",
+      "Endoscopic studies",
+      "Transurethral bladder & stone removal"
+    ],
+    "advancedProcedures": [],
+    "ernakulam": [
+      "Dr. Krishna Moorthy H."
+    ],
+    "aluva": [
+      "Dr. Krishna Moorthy H."
+    ]
+  },
+  {
+    "id": "dept-028",
+    "name": "Oncology - Medical",
+    "cat": "superspeciality",
+    "blurb": "Diagnostic and interventional cancer care, with radiotherapy coordinated through the Regional Cancer Centre, Trivandrum.",
+    "description": "Cancer and related complications are addressed in a specially designed unit for diagnostic and interventional procedures, including biopsies, excisions, and chemotherapy. Radiotherapy is conducted in consultation with the Regional Cancer Centre (RCC), Trivandrum. Detected early, most cancerous conditions are curable.",
+    "services": [],
+    "advancedProcedures": [],
+    "ernakulam": [
+      "Dr. Mohanan Nair C.N."
+    ],
+    "aluva": []
+  },
+  {
+    "id": "dept-029",
+    "name": "Oncology - Surgical",
+    "cat": "superspeciality",
+    "blurb": "Surgical oncology with radiotherapy coordinated through the Regional Cancer Centre, Trivandrum.",
+    "description": "The Surgical Oncology unit handles diagnostic and interventional cancer care, including biopsies, excisions, and chemotherapy, with radiotherapy coordinated through the Regional Cancer Centre (RCC), Trivandrum.",
+    "services": [],
+    "advancedProcedures": [],
+    "ernakulam": [
+      "Dr. Shaji A.K."
+    ],
+    "aluva": []
+  },
+  {
+    "id": "dept-030",
+    "name": "Vascular Surgery",
+    "cat": "superspeciality",
+    "blurb": "Specialised surgical care for vascular conditions.",
+    "description": "Dedicated surgical care for conditions affecting the blood vessels, provided by an experienced vascular surgery team.",
+    "services": [],
+    "advancedProcedures": [],
+    "ernakulam": [
+      "Dr. Roy Varghese"
+    ],
+    "aluva": []
+  },
+  {
+    "id": "dept-031",
+    "name": "Gastroenterology - Surgical",
+    "cat": "superspeciality",
+    "blurb": "Surgical care for digestive system conditions.",
+    "description": "Surgical management of digestive system conditions, provided by a specialist gastroenterology surgery team.",
+    "services": [],
+    "advancedProcedures": [],
+    "ernakulam": [
+      "Dr. Vivek Anilkumar Saraf"
+    ],
+    "aluva": []
+  },
+  {
+    "id": "dept-032",
+    "name": "Gastroenterology - Medical",
+    "cat": "superspeciality",
+    "blurb": "Diagnosis and non-surgical treatment of digestive system disorders.",
+    "description": "Diagnosis and medical management of digestive system disorders, including therapeutic endoscopy for complex conditions.",
+    "services": [],
+    "advancedProcedures": [],
+    "ernakulam": [
+      "Dr. Johny Cyriac"
+    ],
+    "aluva": [
+      "Dr. Johny Cyriac"
+    ]
+  },
+  {
+    "id": "dept-033",
+    "name": "Infertility & Reproductive Medicine",
+    "cat": "superspeciality",
+    "blurb": "Low-cost IVF and fertility treatment through to delivery, backed by 30 years of experience.",
+    "description": "The Infertility Centre offers low-cost IVF and fertility treatment services under one roof, covering the full journey from fertility treatment through to delivery — drawing on 30 years of experience and the latest reproductive technologies, with treatment plans designed around individual needs.",
+    "services": [],
+    "advancedProcedures": [],
+    "ernakulam": [
+      "Dr. Titty Chacko"
+    ],
+    "aluva": []
+  },
+  {
+    "id": "dept-034",
+    "name": "Interventional Cardiology",
+    "cat": "superspeciality",
+    "blurb": "Advanced cardiac care addressing Kerala's rising burden of heart disease, from diagnostics through intervention.",
+    "description": "As heart disease rises, this department provides sophisticated, round-the-clock cardiac care through minimally invasive procedures that reduce hospitalization time and speed rehabilitation, supported by a 15-bed ICCU.",
+    "services": [
+      "Ambulatory BP monitoring",
+      "3D echocardiography",
+      "Cardiac stress treadmill test",
+      "Arrhythmia monitoring & pacing",
+      "Day-care angiogram",
+      "Simple & complex coronary interventions",
+      "24x7 primary PCI facility",
+      "Temporary & permanent pacemaker implantation"
+    ],
+    "advancedProcedures": [],
+    "ernakulam": [
+      "Dr. Anil Balachandran"
+    ],
+    "aluva": []
+  },
+  {
+    "id": "dept-035",
+    "name": "Diabetes & Endocrinology",
+    "cat": "superspeciality",
+    "blurb": "Management of diabetes, thyroid disorders and obesity, paired with ongoing lifestyle guidance for patients.",
+    "description": "Endocrinology studies the body's glands and hormones — when secretion runs too high or low, it can affect organ efficiency and lead to complications like infertility or obesity. The department provides care and treatment for obesity, diabetes, and thyroid conditions, alongside practical guidance for managing them long-term.",
+    "services": [],
+    "advancedProcedures": [],
+    "ernakulam": [
+      "Dr. Mini G. Pillai"
+    ],
+    "aluva": [
+      "Dr. Mini G. Pillai"
+    ]
+  },
+  {
+    "id": "dept-036",
+    "name": "Pulmonology",
+    "cat": "superspeciality",
+    "blurb": "Respiratory and lung care, from common cough to asthma, allergy, and tuberculosis.",
+    "description": "This department manages the full range of respiratory conditions — increasingly common as environmental pollution rises — from asthma and allergy to tuberculosis and other specific respiratory diseases.",
+    "services": [],
+    "advancedProcedures": [],
+    "ernakulam": [
+      "Dr. Ramesh Nair K.M.",
+      "Dr. Prince George Varghese"
+    ],
+    "aluva": []
+  },
+  {
+    "id": "dept-037",
+    "name": "Embryology",
+    "cat": "superspeciality",
+    "blurb": "Embryology support for the hospital's fertility and reproductive medicine services.",
+    "description": "Embryology services support the hospital's fertility treatment programs, working closely with the Infertility & Reproductive Medicine department.",
+    "services": [],
+    "advancedProcedures": [],
+    "ernakulam": [
+      "Dr. Azif Khan"
+    ],
+    "aluva": [
+      "Dr. Azif Khan"
+    ]
+  },
+  {
+    "id": "dept-038",
+    "name": "Orthopaedics & Joint Replacement Surgery",
+    "cat": "superspeciality",
+    "blurb": "Dedicated joint replacement surgery, from hip and knee replacement to complex reconstructive cases.",
+    "description": "A dedicated joint replacement unit performing hip and knee replacement and related reconstructive orthopaedic surgery.",
+    "services": [],
+    "advancedProcedures": [],
+    "ernakulam": [
+      "Dr. Surej G.N.",
+      "Dr. Joseph George"
+    ],
+    "aluva": [
+      "Dr. Faizal Kareem"
+    ]
+  },
+  {
+    "id": "dept-039",
+    "name": "Orthopaedics, Shoulder and Elbow",
+    "cat": "superspeciality",
+    "blurb": "Specialist surgical care for shoulder and elbow conditions.",
+    "description": "A specialist unit focused on shoulder and elbow orthopaedic conditions and surgical care.",
+    "services": [],
+    "advancedProcedures": [],
+    "ernakulam": [
+      "Dr. K.R. Prathap Kumar"
+    ],
+    "aluva": [
+      "Dr. K.R. Prathap Kumar"
+    ]
+  },
+  {
+    "id": "dept-040",
+    "name": "Critical Care Medicine",
+    "cat": "superspeciality",
+    "blurb": "Round-the-clock critical and intensive care medicine.",
+    "description": "Dedicated critical care medicine providing round-the-clock intensive care for patients in acute and life-threatening conditions.",
+    "services": [],
+    "advancedProcedures": [],
+    "ernakulam": [
+      "Dr. Surabhi Gupta"
+    ],
+    "aluva": []
+  }
 ]
